@@ -25,7 +25,7 @@ Both the left and right subtrees must also be binary search trees.
  * }
  */
  
- // Here min and max is replaced in the argument based on BST property
+ // Here min and max is replaced in the argument based on BST property and used polymorphism in calling function
 public class Solution {    
     
     public bool IsValidBST(TreeNode root) {
